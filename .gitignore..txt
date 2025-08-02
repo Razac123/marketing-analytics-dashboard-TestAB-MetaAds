@@ -1,0 +1,5 @@
+# Fichiers et dossiers Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.zip
